@@ -35,9 +35,6 @@ I first focused on the HTML portion of the project. Also, began commenting out t
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 

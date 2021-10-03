@@ -79,7 +79,9 @@ body{
     font-size: 15px;
     color: hsl(223, 47%, 23%);
 }
-
+.annual-plan h5 p{
+    display: block;
+}
 /*Here we are targeting the $59.99 letters and matching them with the 'text-content p.subtitle' text color. */
 .plan-box-left div p{
     font-size: 14px;

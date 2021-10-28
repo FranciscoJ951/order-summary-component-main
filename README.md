@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://franciscoj951.github.io/order-summary-component-main/)
+- Solution URL: [https://franciscoj951.github.io/order-summary-component-main/]
 
 ## My process
 
